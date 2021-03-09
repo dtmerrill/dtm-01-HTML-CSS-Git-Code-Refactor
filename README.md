@@ -31,3 +31,6 @@ THEN they fall in sequential order
 
 WHEN I view the title element
 THEN I find a concise, descriptive title
+
+## image
+[screencapture-dtmerrill-github-io-dtm-01-HTML-CSS-Git-Code-Refactor-2021-03-06-14_30_50.pdf](https://github.com/dtmerrill/dtm-01-HTML-CSS-Git-Code-Refactor/files/6111831/screencapture-dtmerrill-github-io-dtm-01-HTML-CSS-Git-Code-Refactor-2021-03-06-14_30_50.pdf)
